@@ -1,0 +1,615 @@
+[
+  {
+    "id": 1,
+    "name": "MAIN ROOM",
+    "password": "",
+    "items": [
+      {
+        "name": "客厅_玻璃桌",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          23,
+          4
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "客厅_红色沙发",
+        "size": [
+          5,
+          2
+        ],
+        "rotation": 0,
+        "gridPosition": [
+          22,
+          9
+        ]
+      },
+      {
+        "name": "盆栽",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          18,
+          17
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "徐磊_电脑桌",
+        "size": [
+          3,
+          2
+        ],
+        "gridPosition": [
+          23,
+          17
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "客厅_落地灯",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          19,
+          1
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "客厅_音响",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          21,
+          1
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "椭圆形地毯",
+        "size": [
+          6,
+          4
+        ],
+        "walkable": true,
+        "gridPosition": [
+          21,
+          3
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "客厅_电视",
+        "size": [
+          4,
+          2
+        ],
+        "rotation": 2,
+        "gridPosition": [
+          22,
+          1
+        ]
+      },
+      {
+        "name": "客厅_音响",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          26,
+          1
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "客厅_红色小沙发",
+        "size": [
+          2,
+          2
+        ],
+        "rotation": 0,
+        "gridPosition": [
+          20,
+          9
+        ]
+      },
+      {
+        "name": "徐磊_双人床",
+        "size": [
+          5,
+          5
+        ],
+        "rotation": 0,
+        "gridPosition": [
+          23,
+          23
+        ]
+      },
+      {
+        "name": "矮书架",
+        "size": [
+          2,
+          1
+        ],
+        "gridPosition": [
+          26,
+          17
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "矮书架",
+        "size": [
+          2,
+          1
+        ],
+        "gridPosition": [
+          27,
+          17
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "宽书架",
+        "size": [
+          3,
+          1
+        ],
+        "rotation": 3,
+        "gridPosition": [
+          10,
+          19
+        ]
+      },
+      {
+        "name": "宽书架",
+        "size": [
+          3,
+          1
+        ],
+        "rotation": 3,
+        "gridPosition": [
+          10,
+          22
+        ]
+      },
+      {
+        "name": "宽书架",
+        "size": [
+          3,
+          1
+        ],
+        "rotation": 3,
+        "gridPosition": [
+          10,
+          25
+        ]
+      },
+      {
+        "name": "宽书架",
+        "size": [
+          3,
+          1
+        ],
+        "rotation": 3,
+        "gridPosition": [
+          18,
+          22
+        ]
+      },
+      {
+        "name": "宽书架",
+        "size": [
+          3,
+          1
+        ],
+        "rotation": 3,
+        "gridPosition": [
+          18,
+          19
+        ]
+      },
+      {
+        "name": "宽书架",
+        "size": [
+          3,
+          1
+        ],
+        "rotation": 3,
+        "gridPosition": [
+          18,
+          25
+        ]
+      },
+      {
+        "name": "徐磊_落地灯",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          22,
+          27
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "客厅_蓝色拐角沙发",
+        "size": [
+          5,
+          5
+        ],
+        "rotation": 0,
+        "gridPosition": [
+          13,
+          14
+        ]
+      },
+      {
+        "name": "林敏_单人床",
+        "size": [
+          3,
+          6
+        ],
+        "rotation": 0,
+        "gridPosition": [
+          14,
+          22
+        ]
+      },
+      {
+        "name": "林敏_书桌",
+        "size": [
+          3,
+          2
+        ],
+        "gridPosition": [
+          14,
+          19
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "洗衣机",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          0,
+          12
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "垃圾桶",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          6,
+          2
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "厨房_燃气灶",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          2,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "厨房_洗菜池",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          4,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "厨房_料理台",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          6,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "厨房_料理台",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          8,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "厨房_料理台_拐角",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          10,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "厨房_隔断矮墙",
+        "size": [
+          2,
+          1
+        ],
+        "gridPosition": [
+          11,
+          2
+        ],
+        "rotation": 3
+      },
+      {
+        "name": "厨房_隔断矮墙",
+        "size": [
+          2,
+          1
+        ],
+        "gridPosition": [
+          11,
+          4
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "厨房_大冰箱",
+        "size": [
+          2,
+          1
+        ],
+        "gridPosition": [
+          0,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "正方形地毯",
+        "size": [
+          4,
+          4
+        ],
+        "walkable": true,
+        "gridPosition": [
+          2,
+          2
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "客厅_蓝色沙发",
+        "size": [
+          5,
+          2
+        ],
+        "rotation": 0,
+        "gridPosition": [
+          6,
+          17
+        ]
+      },
+      {
+        "name": "卫生间_洗手池",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          0,
+          20
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "卫生间_镜子",
+        "size": [
+          2,
+          1
+        ],
+        "wall": true,
+        "gridPosition": [
+          0,
+          20
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "卫生间_壁柜",
+        "size": [
+          2,
+          1
+        ],
+        "wall": true,
+        "gridPosition": [
+          0,
+          18
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "卫生间_壁柜",
+        "size": [
+          2,
+          1
+        ],
+        "wall": true,
+        "gridPosition": [
+          0,
+          17
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "卫生间_淋浴",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          0,
+          25
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "卫生间_马桶",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          4,
+          26
+        ],
+        "rotation": 2
+      },
+      {
+        "name": "盆栽",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          11,
+          27
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "洗衣机",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          0,
+          14
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "垃圾桶",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          6,
+          26
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "厨房_饭桌",
+        "size": [
+          4,
+          2
+        ],
+        "gridPosition": [
+          0,
+          7
+        ],
+        "rotation": 1
+      }
+    ],
+    "characters": [
+      {
+        "id": 1,
+        "session": 1,
+        "name": "徐磊",
+        "gender": "male",
+        "max_energe": 100,
+        "current_energe": 98,
+        "max_hunger": 100,
+        "current_hunger": 95,
+        "avatarName": "coder",
+        "position": [
+          10,
+          13
+        ],
+        "path": [],
+        "job": "程序员",
+        "hobby": [
+          "打游戏",
+          "读书"
+        ],
+        "personality": "爱看书，对体育感兴趣，平时喜欢呆在自己床边活动。",
+        "state": "",
+        "memories": [],
+        "max_memory": 10,
+        "event": {},
+        "current_thought": ""
+      },
+      {
+        "id": 2,
+        "session": 2,
+        "name": "林敏",
+        "gender": "female",
+        "max_energe": 100,
+        "current_energe": 96,
+        "max_hunger": 100,
+        "current_hunger": 90,
+        "avatarName": "designer",
+        "position": [
+          14,
+          21
+        ],
+        "path": [],
+        "job": "产品设计",
+        "hobby": [
+          "做饭",
+          "刷新闻"
+        ],
+        "personality": "爱看书，热衷娱乐八卦，礼貌但不喜欢被别人打扰，习惯在自己床边和客厅活动。",
+        "state": "reading",
+        "memories": [],
+        "max_memory": 10,
+        "event": {},
+        "current_thought": ""
+      }
+    ],
+    "size": [
+      14,
+      14
+    ],
+    "gridDivision": 2
+  }
+]

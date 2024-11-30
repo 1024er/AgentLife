@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "name": "MAIN ROOM",
+    "password": "HAHA_MAKER_RANDOM",
+    "items": [
+      {
+        "name": "厨房_燃气灶",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          2,
+          12
+        ],
+        "rotation": 2
+      },
+      {
+        "name": "厨房_洗菜池",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          0,
+          12
+        ],
+        "rotation": 2
+      },
+      {
+        "name": "厨房_料理台",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          4,
+          12
+        ],
+        "rotation": 2
+      },
+      {
+        "name": "垃圾桶",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          6,
+          13
+        ],
+        "rotation": 2
+      },
+      {
+        "name": "卫生间_洗手池",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          0,
+          4
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "单人床",
+        "size": [
+          3,
+          6
+        ],
+        "rotation": 3,
+        "gridPosition": [
+          8,
+          11
+        ]
+      },
+      {
+        "name": "卫生间_淋浴",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          0,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "卫生间_镜子",
+        "size": [
+          2,
+          1
+        ],
+        "wall": true,
+        "gridPosition": [
+          0,
+          4
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "客厅_电视",
+        "size": [
+          4,
+          2
+        ],
+        "rotation": 2,
+        "gridPosition": [
+          10,
+          0
+        ]
+      },
+      {
+        "name": "盆栽",
+        "size": [
+          1,
+          1
+        ],
+        "gridPosition": [
+          8,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "客厅_玻璃桌",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          11,
+          4
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "卫生间_马桶",
+        "size": [
+          2,
+          2
+        ],
+        "gridPosition": [
+          3,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "卫生间_壁柜",
+        "size": [
+          2,
+          1
+        ],
+        "wall": true,
+        "gridPosition": [
+          0,
+          10
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "卫生间_壁柜",
+        "size": [
+          2,
+          1
+        ],
+        "wall": true,
+        "gridPosition": [
+          0,
+          9
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "客厅_蓝色拐角沙发",
+        "size": [
+          5,
+          5
+        ],
+        "rotation": 0,
+        "gridPosition": [
+          4,
+          4
+        ]
+      },
+      {
+        "name": "卫生间_壁柜",
+        "size": [
+          2,
+          1
+        ],
+        "wall": true,
+        "gridPosition": [
+          0,
+          8
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "正方形地毯",
+        "size": [
+          4,
+          4
+        ],
+        "walkable": true,
+        "gridPosition": [
+          5,
+          4
+        ],
+        "rotation": 0
+      },
+      {
+        "name": "椭圆形地毯",
+        "size": [
+          6,
+          4
+        ],
+        "walkable": true,
+        "gridPosition": [
+          10,
+          2
+        ],
+        "rotation": 1
+      },
+      {
+        "name": "电脑桌",
+        "size": [
+          3,
+          2
+        ],
+        "gridPosition": [
+          12,
+          8
+        ],
+        "entryGridPosition": [
+          11,
+          9
+        ],
+        "entryLookAt": [
+          12,
+          9
+        ],
+        "rotation": 3
+      }
+    ],
+    "characters": [
+      {
+        "id": 1,
+        "session": 1,
+        "name": "徐磊",
+        "gender": "male",
+        "max_energe": 100,
+        "current_energe": 100,
+        "max_hunger": 100,
+        "current_hunger": 100,
+        "hunger_change": 0,
+        "energe_change": 0,
+        "avatarName": "coder",
+        "position": [
+          8,
+          8
+        ],
+        "look_at": [
+          8,
+          9
+        ],
+        "path": [],
+        "job": "程序员",
+        "hobby": ["刷新闻", "研究技术", "吃瓜"],
+        "personality": "一个同时喜欢八卦娱乐和研究技术的极客。",
+        "state": "",
+        "memories": [],
+        "max_memory": 10,
+        "event": {},
+        "current_thought": ""
+      }
+    ],
+    "size": [
+      7,
+      7
+    ],
+    "gridDivision": 2
+  }
+]
