@@ -1,6 +1,6 @@
 # Agent Life
 
-Agent Life 是一个基于 LLM（Qwen-2.5）的 Agent 仿真项目，您可以赋予 Agent 不同的人设，从而观察 Agent 在一天中都会做些什么。
+Agent Life 是一个基于 LLM（Qwen-2.5）的 Agent 仿真项目，通过赋予 Agent 不同的人设以观察 Agent 在一天中都会做些什么 😈。
 
 > 您可以查看项目对应的 [文章]() 和 [视频]()。
 
