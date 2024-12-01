@@ -106,7 +106,20 @@ VITE v4.1.4  ready in 885 ms
 
 服务端使用 python 实现，python 大家应该很熟悉了，这里就不再介绍安装方法。
 
-### 2.1 Cookie Settings
+### 2.1 LLM API Settings
+
+在 `llm_utils.py` 文件中，填写自己的 LLM API 信息：
+
+```python
+import requests
+from openai import OpenAI
+
+model_name = "qwen2.5-72b-instruct"   # qwen-plus, 模型列表：https://help.aliyun.com/zh/model-studio/getting-started/models
+url = "https://dashscope.aliyuncs.com/compatible-mode/v1"
+api_key = ""                          # 阿里云 API Key
+```
+
+### 2.2 Cookie Settings
 
 项目里使用到的 `微博发布`、`新闻热点爬取` 等都需要使用个人 COOKIE，这个需要大家自行填写（如果不想搞 cookie 也可以在 `funcation_calls.py` 中注释掉不使用这些工具）。
 
@@ -150,7 +163,7 @@ Pass Rate: 80.00%(8/10).
 
 可以对照着成功/失败的结果，检查 COOKIE 抓取是否正确（或过期失效），由于网络波动，可以多测试几次，`只要有一次成功就说明 COOKIE 有效`。
 
-### 2.2 Function Calls Setting
+### 2.3 Function Calls Setting
 
 > 默认源码已经配置好，不想了解实现可跳过该小节。
 
@@ -255,7 +268,7 @@ if __name__ == "__main__":
 
 > PS：真实在使用中，我们使用的是 `generate_valid_function_calls_prompts()` 方法，它会根据当前的 `agent_object` 和 `room` 来生成当前状态下所有可用的函数。
 
-### 2.3 运行服务端
+### 2.4 运行服务端
 
 使用以下命令拉起服务端：
 
