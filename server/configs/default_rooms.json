@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "MAIN ROOM",
-    "password": "HAHA_MAKER_RANDOM",
+    "password": "",
     "items": [
       {
         "name": "厨房_燃气灶",
@@ -11,6 +11,14 @@
           2
         ],
         "gridPosition": [
+          2,
+          12
+        ],
+        "entryGridPosition": [
+          2,
+          11
+        ],
+        "entryLookAt": [
           2,
           12
         ],
@@ -26,6 +34,14 @@
           0,
           12
         ],
+        "entryGridPosition": [
+          1,
+          11
+        ],
+        "entryLookAt": [
+          1,
+          12
+        ],
         "rotation": 2
       },
       {
@@ -35,6 +51,14 @@
           2
         ],
         "gridPosition": [
+          4,
+          12
+        ],
+        "entryGridPosition": [
+          4,
+          11
+        ],
+        "entryLookAt": [
           4,
           12
         ],
@@ -62,6 +86,14 @@
           0,
           4
         ],
+        "entryGridPosition": [
+          2,
+          4
+        ],
+        "entryLookAt": [
+          1,
+          4
+        ],
         "rotation": 1
       },
       {
@@ -73,6 +105,14 @@
         "rotation": 3,
         "gridPosition": [
           8,
+          11
+        ],
+        "entryGridPosition": [
+          9,
+          10
+        ],
+        "entryLookAt": [
+          9,
           11
         ]
       },
@@ -111,6 +151,14 @@
         "gridPosition": [
           10,
           0
+        ],
+        "entryGridPosition": [
+          12,
+          3
+        ],
+        "entryLookAt": [
+          12,
+          2
         ]
       },
       {
@@ -135,6 +183,14 @@
           11,
           4
         ],
+        "entryGridPosition": [
+          10,
+          5
+        ],
+        "entryLookAt": [
+          11,
+          5
+        ],
         "rotation": 0
       },
       {
@@ -146,6 +202,14 @@
         "gridPosition": [
           3,
           0
+        ],
+        "entryGridPosition": [
+          3,
+          3
+        ],
+        "entryLookAt": [
+          3,
+          2
         ],
         "rotation": 0
       },
@@ -185,6 +249,14 @@
         "gridPosition": [
           4,
           4
+        ],
+        "entryGridPosition": [
+          10,
+          10
+        ],
+        "entryLookAt": [
+          10,
+          11
         ]
       },
       {
@@ -256,7 +328,7 @@
         "max_energe": 100,
         "current_energe": 100,
         "max_hunger": 100,
-        "current_hunger": 100,
+        "current_hunger": 20,
         "hunger_change": 0,
         "energe_change": 0,
         "avatarName": "coder",
