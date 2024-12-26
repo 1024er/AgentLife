@@ -20,7 +20,7 @@ class LLMClient(object):
         prompt: str,   
     ) -> str:
         messages = [
-            {"role": "system", "content": "You are Qwen, created by Alibaba Cloud. You are a helpful assistant."},
+            {"role": "system", "content": "You are Gemini, created by Google. You are a helpful assistant."},
             {"role": "user", "content": prompt}
         ]
         client = OpenAI(
