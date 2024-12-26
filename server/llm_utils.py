@@ -5,9 +5,12 @@ import requests
 from openai import OpenAI
 
 
-model_name = "qwen2.5-72b-instruct"                             # qwen-plus, 模型列表：https://help.aliyun.com/zh/model-studio/getting-started/models
-url = "https://dashscope.aliyuncs.com/compatible-mode/v1"
-api_key = ""                                                    # 阿里云 API Key
+model_name = "gemini-1.5-flash"                             # gemini model; 更多参考：https://ai.google.dev/gemini-api/docs/models/gemini-v2?hl=zh-cn
+api_key = ""                                                    # Gemini API Key
+url = "https://generativelanguage.googleapis.com/v1beta/"
+# model_name = "qwen2.5-72b-instruct"                             # qwen-plus, 模型列表：https://help.aliyun.com/zh/model-studio/getting-started/models
+# url = "https://dashscope.aliyuncs.com/compatible-mode/v1"
+# api_key = ""                                                    # 阿里云 API Key
 
 
 class LLMClient(object):
